@@ -1,0 +1,14 @@
+{
+  "name": "my-s3-uploader",
+  "version": "0.1.0",
+  "description": "uploads original url-fetched image, plus arbitrary resizes to s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "s3"
+  ],
+  "author": "Gallagher Polyn",
+  "license": "ISC"
+}
